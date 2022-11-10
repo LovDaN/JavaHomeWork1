@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
+     {
         int[] arr = {1000, 200, 35, 7852, 1};
 
         heapSort(arr);
